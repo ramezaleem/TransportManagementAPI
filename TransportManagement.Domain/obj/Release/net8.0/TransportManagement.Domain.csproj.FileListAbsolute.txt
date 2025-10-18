@@ -1,0 +1,11 @@
+E:\TransportManagement\TransportManagement.Domain\bin\Release\net8.0\TransportManagement.Domain.deps.json
+E:\TransportManagement\TransportManagement.Domain\bin\Release\net8.0\TransportManagement.Domain.dll
+E:\TransportManagement\TransportManagement.Domain\bin\Release\net8.0\TransportManagement.Domain.pdb
+E:\TransportManagement\TransportManagement.Domain\obj\Release\net8.0\TransportManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\TransportManagement\TransportManagement.Domain\obj\Release\net8.0\TransportManagement.Domain.AssemblyInfoInputs.cache
+E:\TransportManagement\TransportManagement.Domain\obj\Release\net8.0\TransportManagement.Domain.AssemblyInfo.cs
+E:\TransportManagement\TransportManagement.Domain\obj\Release\net8.0\TransportManagement.Domain.csproj.CoreCompileInputs.cache
+E:\TransportManagement\TransportManagement.Domain\obj\Release\net8.0\TransportManagement.Domain.dll
+E:\TransportManagement\TransportManagement.Domain\obj\Release\net8.0\refint\TransportManagement.Domain.dll
+E:\TransportManagement\TransportManagement.Domain\obj\Release\net8.0\TransportManagement.Domain.pdb
+E:\TransportManagement\TransportManagement.Domain\obj\Release\net8.0\ref\TransportManagement.Domain.dll

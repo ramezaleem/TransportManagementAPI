@@ -1,0 +1,17 @@
+E:\TransportManagement\TransportManagement.Infrastructure\bin\Debug\net8.0\TransportManagement.Infrastructure.deps.json
+E:\TransportManagement\TransportManagement.Infrastructure\bin\Debug\net8.0\TransportManagement.Infrastructure.runtimeconfig.json
+E:\TransportManagement\TransportManagement.Infrastructure\bin\Debug\net8.0\TransportManagement.Infrastructure.dll
+E:\TransportManagement\TransportManagement.Infrastructure\bin\Debug\net8.0\TransportManagement.Infrastructure.pdb
+E:\TransportManagement\TransportManagement.Infrastructure\bin\Debug\net8.0\TransportManagement.Domain.dll
+E:\TransportManagement\TransportManagement.Infrastructure\bin\Debug\net8.0\TransportManagement.Domain.pdb
+E:\TransportManagement\TransportManagement.Infrastructure\obj\Debug\net8.0\TransportManagement.Infrastructure.csproj.AssemblyReference.cache
+E:\TransportManagement\TransportManagement.Infrastructure\obj\Debug\net8.0\TransportManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\TransportManagement\TransportManagement.Infrastructure\obj\Debug\net8.0\TransportManagement.Infrastructure.AssemblyInfoInputs.cache
+E:\TransportManagement\TransportManagement.Infrastructure\obj\Debug\net8.0\TransportManagement.Infrastructure.AssemblyInfo.cs
+E:\TransportManagement\TransportManagement.Infrastructure\obj\Debug\net8.0\TransportManagement.Infrastructure.csproj.CoreCompileInputs.cache
+E:\TransportManagement\TransportManagement.Infrastructure\obj\Debug\net8.0\Transpor.5C503852.Up2Date
+E:\TransportManagement\TransportManagement.Infrastructure\obj\Debug\net8.0\TransportManagement.Infrastructure.dll
+E:\TransportManagement\TransportManagement.Infrastructure\obj\Debug\net8.0\refint\TransportManagement.Infrastructure.dll
+E:\TransportManagement\TransportManagement.Infrastructure\obj\Debug\net8.0\TransportManagement.Infrastructure.pdb
+E:\TransportManagement\TransportManagement.Infrastructure\obj\Debug\net8.0\TransportManagement.Infrastructure.genruntimeconfig.cache
+E:\TransportManagement\TransportManagement.Infrastructure\obj\Debug\net8.0\ref\TransportManagement.Infrastructure.dll
